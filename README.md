@@ -1,2 +1,0 @@
-# Technical-evaluation
-Moresand Technologies
