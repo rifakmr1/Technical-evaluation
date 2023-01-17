@@ -1,9 +1,0 @@
-version: '3'
-services: 
-    moresandevaluation: 
-      build: "/home/rifak/Moresand_exam"
-      image: "rifak/my-nginx:latest"
-      container_name: "helloworldrifak"
-      ports:
-        - "80:80"
-
